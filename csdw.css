@@ -579,7 +579,7 @@ div.unread-mentions-indicator-bottom {
 
 #bd-pub-li {
   position: absolute;
-  top: 0px;
+  top: 100px;
   left: 0px;
 }
 
