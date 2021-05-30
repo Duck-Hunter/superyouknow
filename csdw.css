@@ -577,18 +577,6 @@ div.unread-mentions-indicator-bottom {
   margin: none !important;
 }
 
-#bd-pub-li {
-  position: absolute;
-  top: 0px;
-  left: 100px;
-}
-
-#bd-pub-li #bd-pub-button {
-  position:absolute;
-  width: 100%;
-  text-align: center;
-}
-
 .wrapper-3NnKdC .scroller-1Bvpku .guildSeparator-33mFX6 {
   position: relative;
   width: 100%;
@@ -834,11 +822,6 @@ div.unread-mentions-indicator-bottom {
 /* Edit this to change the color of an unread text channel color */
 .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
   color: var(--unread-text-color);
-}
-
-#bd-pub-li #bd-pub-button {
-  border-radius: 25px !important;
-  background: #2f3136 !important;
 }
 
 .dms-rcsEnV {
