@@ -579,8 +579,8 @@ div.unread-mentions-indicator-bottom {
 
 #bd-pub-li {
   position: absolute;
-  top: 100px;
-  left: 100px;
+  top: 1000px;
+  left: 0px;
 }
 
 #bd-pub-li #bd-pub-button {
