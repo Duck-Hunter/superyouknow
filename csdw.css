@@ -113,26 +113,6 @@ html {
   background-color: rgba(0, 0, 0, 0);
   border-color: rgba(0, 0, 0, 0);
 }
-#app-mount [role=menu]:before,
-#app-mount .autocompleteInner-zh20B_:before,
-#app-mount .container-3ayLPN:before,
-#app-mount .container-enaOkj:before,
-#app-mount .container-2dqNWc:before,
-#app-mount .contextMenu-HLZMGh:not(.scroller-2FKFPG):before,
-#app-mount .emojiPicker-3PwZFl:before,
-#app-mount .messagesPopoutWrap-1MQ1bW:before,
-#app-mount .modal-yWgWj-:not(.slide-2pHaq5):before,
-#app-mount .root-1gCeng:not(.fullscreenOnMobile-1bD22y):before,
-#app-mount .root-SR8cQa:before,
-#app-mount .subMenuContext-2n_9YM .scrollerWrap-2lJEkd:before,
-#app-mount [class*=userPopout]:before,
-#app-mount section.positionContainer-3unAXC .drawerSizingWrapper-27qFHb:before,
-#app-mount .quickswitcher-3JagVE:before,
-#app-mount .root-1gCeng.wrapper-2ZbzR9:before,
-#app-mount .modalRoot-1Kx4Hb:before,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-289Jih:before,
-#app-mount .popoutContainer-1MXdqN:before,
-#app-mount .root-1gCeng:not(.modal-qgFCbT):before,
 #app-mount .container-3XJ8ns:before {
   content: "";
   background: -webkit-gradient(linear, left top, left bottom, from(var(--tint)), to(var(--tint))), var(--popout-modal-image);
